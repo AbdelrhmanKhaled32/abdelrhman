@@ -1,0 +1,66 @@
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\DESK.exe.config
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\DESK.exe
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\DESK.pdb
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\DESK\DESK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\forgetpass.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\log in.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\profile.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\sign up.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK_Content.g.cs
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK_MarkupCompile.cache
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK_MarkupCompile.lref
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\App.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\forgetpass.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\log in.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\profile.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\sign up.baml
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.g.resources
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.Properties.Resources.resources
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.csproj.CopyComplete
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.exe
+C:\Users\IT\source\repos\DESK\DESK\obj\Debug\DESK.pdb
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\forgetpass.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\log in.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\page 2.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\Page1.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\profile.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\sign up.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK_Content.g.cs
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK_MarkupCompile.cache
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK_MarkupCompile.lref
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.exe
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.pdb
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\DESK.exe.config
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\DESK.exe
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\DESK.pdb
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\App.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\forgetpass.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\log in.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\profile.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\sign up.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\page 2.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\Page1.baml
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.g.resources
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.Properties.Resources.resources
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\abdelrhman khaled w2\DESK\DESK\obj\Debug\DESK.csproj.CopyComplete
